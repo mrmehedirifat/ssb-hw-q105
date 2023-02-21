@@ -1,0 +1,57 @@
+.box-1{
+	border: 2px solid red;
+	height: 120px;
+	background-color: darkgrey;
+	text-align: center;
+
+
+
+}
+.box-2{
+	margin-top: 10px;
+	border: 1.5px solid grey;
+	height: 50px;
+	text-align:  center ;
+
+}
+
+
+}
+
+.con{
+	overflow: hidden;
+	
+
+}
+.item{
+margin-top: 5px;
+float: left;
+width: 25%;
+min-height: 25px;
+max-height: 100px;
+text-align: center;
+}
+.red{
+background-color: red;
+}
+.blue{
+background-color: blue;
+}
+.green{
+background-color: green;
+}
+.pink{
+background-color: pink;
+}
+
+.box-3{
+
+}
+.footer{
+	overflow: hidden;
+	margin-top: 40px;
+	height: 20px;
+	padding: 30px;
+	background-color: darkgrey;
+	text-align: center;
+}
